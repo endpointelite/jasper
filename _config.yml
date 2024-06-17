@@ -7,8 +7,8 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Latest Cybersecurity News'
+description: "Welcome to the Cybersecurity News Blog! This project leverages AI to gather, research, and present the latest cybersecurity news and insights. It is designed to keep you updated with the most recent developments in cybersecurity, providing in-depth analysis and information on various topics. Whether you're a cybersecurity professional, enthusiast, or just curious about the field, this blog aims to be a valuable resource"
 
 short_url: 'jekyllt.github.io/jasper/'
 google_analytics: UA-69281367-1
